@@ -1,4 +1,4 @@
-const fmtEUR = new Intl.NumberFormat('it-IT', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
+const fmtEUR = new Intl.NumberFormat('en-GB', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
 
 let DATA = [];
 
@@ -43,7 +43,7 @@ function escapeHtml(str){
 function render(list){
   const grid = el('grid');
   grid.innerHTML = '';
-  el('count').textContent = `${list.length} prodotti`;
+  el('count').textContent = `${list.length} products`;
 
   for(const it of list){
     const card = document.createElement('article');
@@ -56,7 +56,7 @@ function render(list){
     if(photo && (hasUrl(photo) || photo.startsWith('assets/'))){
       const img = document.createElement('img');
       img.loading = 'lazy';
-      img.alt = it.product || it.item || 'Foto prodotto';
+      img.alt = it.product || it.item || 'Product photo';
       img.src = photo;
       thumb.appendChild(img);
     } else {
@@ -79,8 +79,8 @@ function render(list){
     const right = document.createElement('div');
     right.className = 'pills';
 
-    right.appendChild(pill(it.price != null ? fmtEUR.format(it.price) : 'Prezzo n.d.', it.price != null ? '' : 'muted'));
-    right.appendChild(pill(it.quantity != null ? `Q.tà: ${it.quantity}` : 'Q.tà: n.d.', it.quantity != null ? '' : 'muted'));
+    right.appendChild(pill(it.price != null ? fmtEUR.format(it.price) : 'Price n/a', it.price != null ? '' : 'muted'));
+    right.appendChild(pill(it.quantity != null ? `Qty: ${it.quantity}` : 'Qty: n/a', it.quantity != null ? '' : 'muted'));
 
     top.appendChild(left);
     top.appendChild(right);
@@ -89,7 +89,7 @@ function render(list){
     actions.className = 'card-actions';
     const btn = document.createElement('button');
     btn.className = 'btn';
-    btn.textContent = 'Apri scheda';
+    btn.textContent = 'View details';
     btn.addEventListener('click', () => openDialog(it));
     actions.appendChild(btn);
 
@@ -112,9 +112,16 @@ function pill(text, extraClass=''){
 function openDialog(it){
   el('dlgTitle').textContent = it.product || '—';
   el('dlgCode').textContent = it.item || '';
-  el('dlgPrice').textContent = it.price != null ? fmtEUR.format(it.price) : 'Prezzo n.d.';
-  el('dlgQty').textContent = it.quantity != null ? `Q.tà: ${it.quantity}` : 'Q.tà: n.d.';
+  el('dlgPrice').textContent = it.price != null ? fmtEUR.format(it.price) : 'Price n/a';
+  el('dlgQty').textContent = it.quantity != null ? `Qty: ${it.quantity}` : 'Qty: n/a';
   el('dlgDetails').textContent = it.details || '—';
+
+  const note = document.createElement('div');
+  note.className = 'details';
+  note.style.marginTop = '10px';
+  note.textContent = 'Note: Prices exclude taxes, transport and installation.';
+  el('dlgDetails').after(note);
+
 
   const m = (it.media||'').trim();
   const wrap = el('dlgMediaWrap');
@@ -130,7 +137,7 @@ function openDialog(it){
   box.innerHTML = '';
   if(photo && (hasUrl(photo) || photo.startsWith('assets/'))){
     const img = document.createElement('img');
-    img.alt = it.product || it.item || 'Foto prodotto';
+    img.alt = it.product || it.item || 'Product photo';
     img.src = photo;
     box.appendChild(img);
   } else {
