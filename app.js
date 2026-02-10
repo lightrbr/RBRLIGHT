@@ -115,12 +115,8 @@ function openDialog(it){
   el('dlgPrice').textContent = it.price != null ? fmtEUR.format(it.price) : 'Price n/a';
   el('dlgQty').textContent = it.quantity != null ? `Qty: ${it.quantity}` : 'Qty: n/a';
   el('dlgDetails').textContent = it.details || '—';
+  el('dlgNote').textContent = 'Note: Prices exclude taxes, transport and installation.';
 
-  const note = document.createElement('div');
-  note.className = 'details';
-  note.style.marginTop = '10px';
-  note.textContent = 'Note: Prices exclude taxes, transport and installation.';
-  el('dlgDetails').after(note);
 
 
   const m = (it.media||'').trim();

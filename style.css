@@ -223,3 +223,9 @@ body{
   color: var(--muted);
   font-size: 13px;
 }
+
+
+.details.note{
+  margin-top: 10px;
+  color: var(--muted);
+}
