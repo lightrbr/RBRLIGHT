@@ -237,7 +237,7 @@
     "item": "RBR 027",
     "product": "RGB STARS",
     "photo": "assets/rbr-027.png",
-    "media": "CLOUD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hDmkkpMHmHLEVluT?e=0e4kcZ",
+    "media": "",
     "quantity": 1,
     "price": 2200,
     "details": "Size in meters\n2,00 x 2,00 x 0,25 (height x Lenght x Depth)\n\nStructure and Materials\nWeld Aluminum Tube\nRGB Leds\n\nNumber of Leds\n625\n\nPower Consuption\n375 Watts"
@@ -246,7 +246,7 @@
     "item": "RBR 028",
     "product": "CORAL TREE",
     "photo": "assets/rbr-028.png",
-    "media": "CLOUD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hDmkkpMHmHLEVluT?e=0e4kcZ",
+    "media": "",
     "quantity": 1,
     "price": 8700,
     "details": "Size in meters\n10,00 x 5,84 x 0,15 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLed strings \n\nNumber of Leds\n5900\n\nPower Consuption\n425 Watts"
@@ -327,7 +327,7 @@
     "item": "RBR 037",
     "product": "CROSSABLE STAR",
     "photo": "assets/rbr-037.png",
-    "media": "CROSSABLE FRAME\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hQWtmoqQ39-zbHKM?e=z6KPJB",
+    "media": "",
     "quantity": 1,
     "price": 5000,
     "details": "Size in meters\n5,50 x 5,00 x 0,40 (height x Lenght x Depth)\n\nStructure and Materials\nGold Structure\nLed strings + flashes\n\nNumber of Leds\n6200\n\nPower Consuption\n500 Watts"
@@ -336,7 +336,7 @@
     "item": "RBR 038",
     "product": "MAGIC TRAIN",
     "photo": "assets/rbr-038.png",
-    "media": "CROSSABLE FRAME\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hQWtmoqQ39-zbHKM?e=z6KPJB",
+    "media": "",
     "quantity": 1,
     "price": 12650,
     "details": "Size in meters\n2,85 x 4,90 x 2,20 (height x Lenght x Depth)\n\nStructure and Materials\nGoldAluminum Structure\nColoured Carpet\nLed strings + flashes\nRope light on the perimeter\n\nNumber of Leds\n2800\n\nPower Consuption\n202 Watts"
@@ -381,7 +381,7 @@
     "item": "RBR 043",
     "product": "SWEET TEDDY",
     "photo": "assets/rbr-043.png",
-    "media": "SMALL PYRAMID TREE\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hRT_NcG5AqJ7ROxE?e=O5Dn52",
+    "media": "",
     "quantity": 1,
     "price": 24000,
     "details": "Size in meters\n5,22 x 11,00 x 3,10 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n11800\n\nPower Consuption\n688 Watts"
@@ -390,7 +390,7 @@
     "item": "RBR 044",
     "product": "SWEET HOUSE",
     "photo": "assets/rbr-044.png",
-    "media": "SMALL PYRAMID TREE\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hRT_NcG5AqJ7ROxE?e=O5Dn52",
+    "media": "2",
     "quantity": 1,
     "price": 48299.99999999999,
     "details": "Size in meters\n7,28 x 8,70 x 6,23 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\noloured Carpet\nLed strings + flashes\n\nNumber of Leds\n23100\n\nPower Consuption\n1344 Watts"
@@ -399,7 +399,7 @@
     "item": "RBR 045",
     "product": "SWEET TREE",
     "photo": "assets/rbr-045.png",
-    "media": "SMALL PYRAMID TREE\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hRT_NcG5AqJ7ROxE?e=O5Dn52",
+    "media": "2",
     "quantity": 1,
     "price": 4800,
     "details": "Size in meters\n4,82 x 3,79 x 4,21 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColouired Carpet\nLed strings + flashes\n\nNumber of Leds\n1800\n\nPower Consuption\n130 Watts"
@@ -624,7 +624,7 @@
     "item": "RBR 070",
     "product": "PANEL ENTRANCE",
     "photo": "assets/rbr-070.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": 5550,
     "details": "Size in meters\n4,00 x 4,00 x 0,30 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nNeon Flex led\nLed strings + flashes\n\nNumber of Leds\n6800 + 15m neon flex\n\nPower Consuption\n640 Watts"
@@ -633,7 +633,7 @@
     "item": "RBR 071",
     "product": "CHRISTMAS ARCH",
     "photo": "assets/rbr-071.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": null,
     "details": "Size in meters\n4,75 x 13,45 x 5,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nGold Aluminum Sheet\nPVC Balls\nGarlands\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -642,7 +642,7 @@
     "item": "RBR 072",
     "product": "RGB ARCH",
     "photo": "assets/rbr-072.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": null,
     "details": "Size in meters\n3,65 x 6,00 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nGold Aluminum Sheet\nNeon flex\nLeds string \n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -651,7 +651,7 @@
     "item": "RBR 073",
     "product": "STYLIZED NUTCRAKER",
     "photo": "assets/rbr-073.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": 7500,
     "details": "Size in meters\n4,20 x 1,05  x 0,95  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\nCarpet\n\nNumber of Leds\n1800\n\nPower Consuption\n130 Watts"
@@ -660,7 +660,7 @@
     "item": "RBR 074",
     "product": "NUTCRAKER 3D",
     "photo": "assets/rbr-074.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": 12500,
     "details": "Size in meters\n3,5 x 1,05  x 0,95  (height x Lenght x Depth)\nPodium 0,7 x 1 x 1 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n1800\n\nPower Consuption\n130 Watts"
@@ -669,7 +669,7 @@
     "item": "RBR 075",
     "product": "FOOTBALL",
     "photo": "assets/rbr-075.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": 7500,
     "details": "Size in meters\n4,00 x 3,00 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string \n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -678,7 +678,7 @@
     "item": "RBR 076",
     "product": "GIANT BALL",
     "photo": "assets/rbr-076.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": 9500,
     "details": "Size in meters\n5,00 x 4,00 x 4,00(height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nStrip led RGB \nLeds string \n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -687,7 +687,7 @@
     "item": "RBR 077",
     "product": "WALK THROUGH CHRISTMAS BALL",
     "photo": "assets/rbr-077.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": 10500,
     "details": "Size in meters\n4 x 3,5 x 3,5 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -696,7 +696,7 @@
     "item": "RBR 078",
     "product": "TREE MIRRORS",
     "photo": "assets/rbr-078.png",
-    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ",
+    "media": "",
     "quantity": 1,
     "price": 12500,
     "details": "Size in meters\n6,00 x 3,00 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash golden mirror\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -723,7 +723,7 @@
     "item": "RBR 081",
     "product": "3D BALL BENCH",
     "photo": "assets/rbr-081.png",
-    "media": "Price without podium",
+    "media": "",
     "quantity": 1,
     "price": 7500,
     "details": "Size in meters\n2,6 x 2,3 x 1,6 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\nCarpet\n\nNumber of Leds\n3800\n\nPower Consuption\n290 Watts"
@@ -732,7 +732,7 @@
     "item": "RBR 082",
     "product": "SANTA CLAUS BOOK",
     "photo": "assets/rbr-082.png",
-    "media": "Price without podium",
+    "media": "",
     "quantity": 1,
     "price": 42000,
     "details": "Size in meters (only book)\n6,50 x 4,70 x 4,70 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nBacklit Opaline\nCarpet\nLeds string       Neon Flex\nNumber of Leds\n30500 \n100m neon flex\n\nPower Consuption\n3100W"
@@ -741,7 +741,7 @@
     "item": "RBR 083",
     "product": "BEAR WITH SKI",
     "photo": "assets/rbr-083.png",
-    "media": "Price without podium",
+    "media": "",
     "quantity": 1,
     "price": 13500,
     "details": "Size in meters\n4,00 x 3,30 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRed and White Carpet\nLeds string  Rope light around the skis\n\nNumber of Leds\n6000\n\nPower Consuption\n500W"
@@ -759,7 +759,7 @@
     "item": "RBR 085",
     "product": "REINDEER TEDDY",
     "photo": "assets/rbr-085.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 11000,
     "details": "Size in meters\n5,50 x 5,30 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRope Light Led\nLeds string \n\nNumber of Leds\n7900\n\nPower Consuption\n800 Watts"
@@ -768,7 +768,7 @@
     "item": "RBR 086",
     "product": "HEART",
     "photo": "assets/rbr-086.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 5500,
     "details": "Size in meters\n2,50 x 3,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nNeon Flex Led\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -777,7 +777,7 @@
     "item": "RBR 087",
     "product": "TEDDY 3D",
     "photo": "assets/rbr-087.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 5650,
     "details": "Size in meters\n3,00 x 2,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nNeon Flex Led\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -786,7 +786,7 @@
     "item": "RBR 088",
     "product": "3D GIFT",
     "photo": "assets/rbr-088.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 6200,
     "details": "Size in meters\n3,00 x 2,30 x 2,30 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nNeon Flex Led\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -795,7 +795,7 @@
     "item": "RBR 089",
     "product": "WALK THROUGH DEER",
     "photo": "assets/rbr-089.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 6500,
     "details": "Size in meters\n4,50 x 3,00 x 1,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -804,7 +804,7 @@
     "item": "RBR 090",
     "product": "TEDDY",
     "photo": "assets/rbr-090.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 8600,
     "details": "Size in meters\n5,50 x 5,00 x 1,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -813,7 +813,7 @@
     "item": "RBR 091",
     "product": "SEATING CRYSTAL",
     "photo": "assets/rbr-091.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 7500,
     "details": "Size in meters\n3,50 x 3,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -822,7 +822,7 @@
     "item": "RBR 092",
     "product": "REINDEER 2D WITH BIRDS",
     "photo": "assets/rbr-092.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 5800,
     "details": "Size in meters\n3,5 x 3,5 x 1 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRope Light Led\nPVC Balls\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
@@ -831,7 +831,7 @@
     "item": "RBR 093",
     "product": "SPLIT CONE RED TREE",
     "photo": "assets/rbr-093.png",
-    "media": "BEAR WITH BENCH\nhttps://1drv.ms/f/c/6a4798bb9c73fce6/IgCDNrHY9yyHR5JzM-t2953MAZJzEDr77ADZauVbKoi72ww?e=KMlBC3",
+    "media": "",
     "quantity": 1,
     "price": 50000,
     "details": "Size in meters\n11,00 x 7,60 x 6,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash\nCarpet\n\nNumber of Leds\n42000\n\nPower Consuption\n6050W"
@@ -975,7 +975,7 @@
     "item": "RBR 109",
     "product": "CANDLE",
     "photo": "assets/rbr-109.png",
-    "media": "SANTA WITH SLEIGH\nhttps://1drv.ms/i/s!Apo1GIZ6idp6h3iSxmBYb_EP6PzM?e=UsSvmg",
+    "media": "",
     "quantity": 1,
     "price": 14000,
     "details": "Size in meters\n7,00 x 3,00  x 3,00  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nGarlands\nPVC Balls\nCarpet\nLed strings + flashes\n\nNumber of Leds\n5600\nPower Consuption\n404 Watts"
@@ -984,7 +984,7 @@
     "item": "RBR 110",
     "product": "BELL",
     "photo": "assets/rbr-110.png",
-    "media": "SANTA WITH SLEIGH\nhttps://1drv.ms/i/s!Apo1GIZ6idp6h3iSxmBYb_EP6PzM?e=UsSvmg",
+    "media": "",
     "quantity": 1,
     "price": 16000,
     "details": "Size in meters\n5,00 x 4,00  x 4,00  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nPVC Balls\nLed strings + flashes\n\nNumber of Leds\n6400\n\nPower Consuption\n460 Watts"
@@ -1128,7 +1128,7 @@
     "item": "RBR 126",
     "product": "RGB WHALE",
     "photo": "assets/rbr-126.png",
-    "media": "TOYS\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hj8TzHITpc90Ddym?e=2qHMio",
+    "media": "",
     "quantity": 1,
     "price": 30000,
     "details": "Size in meters\n3,5 x 7  x 6  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB led light\n\n\nNumber of Leds\n9000\n\nPower Consuption\n200 Watts"
@@ -1146,7 +1146,7 @@
     "item": "RBR 128",
     "product": "SMALL SANTA WITH SLEIGH AND 3 REINDEERS",
     "photo": "assets/rbr-128.png",
-    "media": "CHAMALEON\nhttps://1drv.ms/v/c/6a4798bb9c73fce6/IQDm_HOcu5hHIIBqhBQBAAAAAfDAGJHnAAkMJRqJFhbTaec?e=atmKe3",
+    "media": "",
     "quantity": 1,
     "price": 35000,
     "details": "Size in meters\n2,70 x 8,70  x 4  (height x Lenght x Depth)\n\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\nCarpet\n\nNumber of Leds\n9000\n\nPower Consuption\n675 Watts"
