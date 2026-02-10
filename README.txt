@@ -1,11 +1,10 @@
-Upload these files to your repo ROOT:
+Upload to repo ROOT:
 - index.html
 - style.css
 - app.js
 
-Keep your existing:
+Keep:
 - data.json
-- assets/ (all product images + logo file)
+- assets/ (product images)
 
-Logo path expected:
-assets/logo-rbr-light.jpg
+This version uses the text logo 'RBR' (no image logo).

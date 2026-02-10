@@ -1,8 +1,7 @@
-/* === RBR Light — Gold theme (safe, complete) === */
+/* === RBR Light — Gold theme (text logo) === */
 :root{
   --bg:#0b0b0b;
   --card:#121212;
-  --card2:#0f0f0f;
   --text:#f5f5f5;
   --muted:#c9b27c;
 
@@ -42,11 +41,16 @@ body{
   margin-bottom:12px;
 }
 
-.logo-img{
-  height: 48px;
-  width: auto;
-  object-fit: contain;
-  display:block;
+.logo{
+  width:44px;
+  height:44px;
+  border-radius:14px;
+  display:grid;
+  place-items:center;
+  background: linear-gradient(135deg, rgba(201,162,77,.85), rgba(230,207,139,.35));
+  font-weight:900;
+  letter-spacing:.5px;
+  color:#0b0b0b;
 }
 
 .title{ font-size:18px; font-weight:800; color: var(--gold); }
@@ -107,9 +111,7 @@ body{
   color: var(--gold-soft);
   cursor:pointer;
 }
-.btn:hover{
-  background: rgba(201,162,77,.10);
-}
+.btn:hover{ background: rgba(201,162,77,.10); }
 
 .grid{
   display:grid;
@@ -145,18 +147,8 @@ body{
   border-bottom:1px solid var(--border);
   background: linear-gradient(135deg, rgba(201,162,77,.18), rgba(230,207,139,.06));
 }
-.thumb img{
-  width:100%;
-  height:100%;
-  object-fit:cover;
-  display:block;
-}
-.thumb .ph{
-  font-size: 34px;
-  font-weight: 800;
-  opacity: .92;
-  color: var(--gold-soft);
-}
+.thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+.thumb .ph{ font-size: 34px; font-weight: 800; opacity:.92; color: var(--gold-soft); }
 
 .card-body{ padding: 12px 12px 14px; display:flex; flex-direction:column; gap:8px; }
 .card-top{ display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
@@ -247,11 +239,7 @@ body{
   padding: 10px 12px;
   background: rgba(255,255,255,.03);
 }
-
-.details.note{
-  margin-top: 10px;
-  color: var(--gold-soft);
-}
+.details.note{ margin-top: 10px; color: var(--gold-soft); }
 
 .pill-row{ display:flex; gap:8px; flex-wrap:wrap; margin-bottom: 10px; }
 
