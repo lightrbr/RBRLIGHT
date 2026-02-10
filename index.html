@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
+<html lang="it">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>RBR Light — Product Catalog</title>
+  <title>RBR Light — Catalogo</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -11,23 +11,23 @@
     <div class="brand">
       <img src="assets/logo-rbr-light.jpg" alt="RBR Light" class="logo-img" />
       <div>
-        <div class="title">Product Catalog</div>
-        <div class="subtitle">Search, filters and product sheets</div>
+        <div class="title">Catalogo prodotti</div>
+        <div class="subtitle">Ricerca, filtri e schede prodotto</div>
       </div>
     </div>
 
     <div class="controls">
-      <input id="q" type="search" placeholder="Search by name, code, details…" />
+      <input id="q" type="search" placeholder="Cerca per nome, codice, dettagli…" />
       <select id="sort">
-        <option value="relevance">Sort: relevance</option>
-        <option value="az">Sort: A → Z</option>
-        <option value="za">Sort: Z → A</option>
-        <option value="priceAsc">Price: low to high</option>
-        <option value="priceDesc">Price: high to low</option>
+        <option value="relevance">Ordina: rilevanza</option>
+        <option value="az">Ordina: A → Z</option>
+        <option value="za">Ordina: Z → A</option>
+        <option value="priceAsc">Prezzo: crescente</option>
+        <option value="priceDesc">Prezzo: decrescente</option>
       </select>
       <label class="check">
         <input id="onlyWithPrice" type="checkbox" />
-        Only with price
+        Solo con prezzo
       </label>
     </div>
   </header>
@@ -35,11 +35,42 @@
   <main class="main">
     <div class="meta">
       <div id="count"></div>
-      <button id="reset" class="btn">Reset filters</button>
+      <button id="reset" class="btn">Reset filtri</button>
     </div>
 
     <section id="grid" class="grid" aria-live="polite"></section>
   </main>
+
+  <dialog id="dlg" class="dlg">
+    <form method="dialog" class="dlg-inner">
+      <div class="dlg-top">
+        <div>
+          <div id="dlgTitle" class="dlg-title"></div>
+          <div id="dlgCode" class="dlg-code"></div>
+        </div>
+        <button class="btn" value="cancel" aria-label="Chiudi">✕</button>
+      </div>
+
+      <div class="dlg-body">
+        <div id="dlgImg" class="dlg-img"></div>
+
+        <div class="dlg-info">
+          <div class="pill-row">
+            <span id="dlgPrice" class="pill"></span>
+            <span id="dlgQty" class="pill"></span>
+          </div>
+
+          <h3>Dettagli</h3>
+          <div id="dlgDetails" class="details"></div>
+
+          <div id="dlgMediaWrap" class="media-wrap">
+            <h3>Foto / Video</h3>
+            <div id="dlgMedia" class="details"></div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </dialog>
 
   <script src="app.js"></script>
 </body>
