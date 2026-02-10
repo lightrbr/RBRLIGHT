@@ -214,18 +214,21 @@ body{
 .media-wrap{ margin-top: 12px; }
 
 
-.footer-note{
-  margin-top: 18px;
-  padding: 12px 14px;
-  border: 1px solid var(--border);
-  border-radius: 14px;
-  background: rgba(255,255,255,.04);
-  color: var(--muted);
-  font-size: 13px;
+
+/* === RBR GOLD OVERRIDES === */
+:root{
+  --bg:#0b0b0b;
+  --card:#121212;
+  --text:#f5f5f5;
+  --muted:#c9b27c;
+
+  --border:rgba(201,162,77,.35);
+  --accent:#c9a24d; /* used in gradients */
 }
 
-
-.details.note{
-  margin-top: 10px;
-  color: var(--muted);
+.logo-img{
+  height: 48px;
+  width: auto;
+  object-fit: contain;
+  display:block;
 }
