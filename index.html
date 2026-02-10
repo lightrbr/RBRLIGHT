@@ -9,25 +9,25 @@
 <body>
   <header class="header">
     <div class="brand">
-      <img src="assets/logo-rbr-light.jpg" alt="RBR Light" class="logo-img" />
+      <div class="logo">RBR</div>
       <div>
-        <div class="title">Catalogo prodotti</div>
-        <div class="subtitle">Ricerca, filtri e schede prodotto</div>
+        <div class="title">Product Catalog</div>
+        <div class="subtitle">Search, filters and product sheets</div>
       </div>
     </div>
 
     <div class="controls">
-      <input id="q" type="search" placeholder="Cerca per nome, codice, dettagli…" />
+      <input id="q" type="search" placeholder="Search by name, code, details…" />
       <select id="sort">
-        <option value="relevance">Ordina: rilevanza</option>
-        <option value="az">Ordina: A → Z</option>
-        <option value="za">Ordina: Z → A</option>
-        <option value="priceAsc">Prezzo: crescente</option>
-        <option value="priceDesc">Prezzo: decrescente</option>
+        <option value="relevance">Sort: relevance</option>
+        <option value="az">Sort: A → Z</option>
+        <option value="za">Sort: Z → A</option>
+        <option value="priceAsc">Price: low to high</option>
+        <option value="priceDesc">Price: high to low</option>
       </select>
       <label class="check">
         <input id="onlyWithPrice" type="checkbox" />
-        Solo con prezzo
+        Only with price
       </label>
     </div>
   </header>
@@ -35,10 +35,15 @@
   <main class="main">
     <div class="meta">
       <div id="count"></div>
-      <button id="reset" class="btn">Reset filtri</button>
+      <button id="reset" class="btn">Reset filters</button>
     </div>
 
     <section id="grid" class="grid" aria-live="polite"></section>
+
+  <footer class="footer-note">
+    Note: Prices exclude taxes, transport and installation.
+  </footer>
+
   </main>
 
   <dialog id="dlg" class="dlg">
@@ -48,7 +53,7 @@
           <div id="dlgTitle" class="dlg-title"></div>
           <div id="dlgCode" class="dlg-code"></div>
         </div>
-        <button class="btn" value="cancel" aria-label="Chiudi">✕</button>
+        <button class="btn" value="cancel" aria-label="Close">✕</button>
       </div>
 
       <div class="dlg-body">
@@ -60,11 +65,12 @@
             <span id="dlgQty" class="pill"></span>
           </div>
 
-          <h3>Dettagli</h3>
+          <h3>Details</h3>
           <div id="dlgDetails" class="details"></div>
+          <div id="dlgNote" class="details note"></div>
 
           <div id="dlgMediaWrap" class="media-wrap">
-            <h3>Foto / Video</h3>
+            <h3>Photos / Videos</h3>
             <div id="dlgMedia" class="details"></div>
           </div>
         </div>

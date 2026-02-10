@@ -124,26 +124,23 @@ function openDialog(it){
   el('dlgDetails').textContent = it.details || '—';
   el('dlgNote').textContent = 'Note: Prices exclude taxes, transport and installation.';
 
-  // --- PHOTOS / VIDEOS (OneDrive links only; shown inside the details sheet) ---
+  const m = (it.media||'').trim();
   const wrap = el('dlgMediaWrap');
-  const mediaBox = el('dlgMedia');
-  const m = (it.media || '').trim();
 
-  mediaBox.innerHTML = '';
-
-  if (m) {
+  if(m){
     wrap.style.display = '';
     const urls = extractUrls(m);
 
-    if (urls.length) {
-      mediaBox.innerHTML = urls
-        .map(u => `<div><a href="${u}" target="_blank" rel="noopener">Open OneDrive folder</a></div>`)
+    if(urls.length){
+      el('dlgMedia').innerHTML = urls
+        .map(u => `<div><a href="${u}" target="_blank" rel="noopener">Open OneDrive link</a></div>`)
         .join('');
     } else {
-      mediaBox.textContent = m;
+      el('dlgMedia').textContent = m;
     }
   } else {
     wrap.style.display = 'none';
+    el('dlgMedia').textContent = '';
   }
 
 
