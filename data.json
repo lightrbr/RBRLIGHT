@@ -1,0 +1,1163 @@
+[
+  {
+    "item": "RBR 001",
+    "product": "BIG BEAR",
+    "photo": "",
+    "media": "POLAR BEAR AND TREE",
+    "quantity": 1,
+    "price": 75000,
+    "details": "Size in meters\n10,00 x 14,00 x 6,16 (height x Lenght x Depth\n\nStructure and Materials\nWelded aluminum tube\nWhite Carpet \nLed strings \nNumber of Leds\n23640\n\nPower Consuption\n1700 Watts"
+  },
+  {
+    "item": "RBR 002",
+    "product": "MEDIUM BEAR",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 35000,
+    "details": "Size in meters\n5,66 x 8,00 x 3,27 (height x Lenght x Depth\n\nStructure and Materials\nWelded aluminum tube\nWhite Carpet \nLed strings\n\nNumber of Leds\n10200\n\nPower Consuption\n735 Watts"
+  },
+  {
+    "item": "RBR 003",
+    "product": "RGB TREE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 22500,
+    "details": "Size in meters\n10,00 x 3,50 x 3,50 (height x Lenght x Depth)\n\nStructure and Materials\nWelded aluminum tube\nRGB Leds\n\nNumber of Leds\n5990 RGB Leds\n\nPower Consuption\n3145 Watts"
+  },
+  {
+    "item": "RBR 004",
+    "product": "ICE PYRAMID",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 8000,
+    "details": "Size in meters\n8,40 x 3,50 x 2,00 (height x Lenght x Depth)\n\nStructure and Materials\nWelded aluminum tube\nLed strings \n\nNumber of Leds\n5100\n\nPower Consuption\n368 Watts"
+  },
+  {
+    "item": "RBR 005",
+    "product": "GORILLA",
+    "photo": "",
+    "media": "GORILLA",
+    "quantity": 1,
+    "price": 57500,
+    "details": "Size in meters\n8,00 x 8,50 x 4,85 (height x Lenght x Depth)\n\nStructure and Materials\nGold aluminum Structure\nBlack Carpet \nLed strings \nNumber of Leds\n24000\n\nPower Consuption\n1728 Watts"
+  },
+  {
+    "item": "RBR 006",
+    "product": "TIGER",
+    "photo": "",
+    "media": "ZOO LIGHT",
+    "quantity": 1,
+    "price": 12500,
+    "details": "Size in meters\n1,50 x 3,50 x 0,80 (height x Lenght x Depth)\n\nStructure and Materials \nGold and Black aluminum Structure\nSheet Metal \nLed strings \n\nNumber of Leds\n3650\n\nPower Consuption\n263 Watts"
+  },
+  {
+    "item": "RBR 007",
+    "product": "LION",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 12500,
+    "details": "Size in meters\n2,20 x 3,20 x 1 (height x Lenght x Depth)\n\nStructure and Materials\nGold aluminum Structure\nSheet Metal\nGold Carpet\nLed strings\n\nNumber of Leds\n5300\n\nPower Consuption\n382 Watts"
+  },
+  {
+    "item": "RBR 008",
+    "product": "LIONESS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 12500,
+    "details": "Size in meters\n1,45 x 3,60 x 1,10 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nWhite Carpet \nLed strings \n\nNumber of Leds\n4200\n\nPower Consuption\n303Watts"
+  },
+  {
+    "item": "RBR 009",
+    "product": "ELEPHANT",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 19500,
+    "details": "Size in meters\n3,45 x 5,80 x 2,20 (height x Lenght x Depth)\n\nStructure and Materials\nGold aluminum tube\nSheet Metal\nColoured Carpet \nLed strings \nNumber of Leds\n13600\n\nPower Consuption\n1020 Watts"
+  },
+  {
+    "item": "RBR 010",
+    "product": "BUTTERFLY",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 7500,
+    "details": "Size in meters\n2,20 x 2,65 x 2,75 (height x Lenght x Depth\n\nStructure and Materials\nAluminum structure\nSheet Metal\nRope light \nLed strings\n\nNumber of Leds\n1000\n\nPower Consuption\n85 Watts"
+  },
+  {
+    "item": "RBR 011",
+    "product": "HIPPOPOTAMUS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 15000,
+    "details": "Size in meters\n2,35 x 3,30 x 1,2 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRed Sheet Metal \nLed strings \n\nNumber of Leds\n3000\n\nPower Consuption\n216 Watts"
+  },
+  {
+    "item": "RBR 012",
+    "product": "GIRAFFE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 18000,
+    "details": "Size in meters\n6,00 x 4,40 x 1,30 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nSheet Metal \nLed strings \n\nNumber of Leds\n6700\n\nPower Consuption\n485 Watts"
+  },
+  {
+    "item": "RBR 013",
+    "product": "RINOCHEROS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 15000,
+    "details": "Size in meters\n1,80 x 3,30 x 1,15 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nSheet Metal \nLed strings \nNumber of Leds\n3000\n\nPower Consuption\n216 Watts"
+  },
+  {
+    "item": "RBR 014",
+    "product": "ZEBRA",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 14000,
+    "details": "Size in meters\n2,40 x3,00 x 0,80 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nSheet Metal \nLed strings \n\nNumber of Leds\n22\n\nPower Consuption\n159 Watts"
+  },
+  {
+    "item": "RBR 015",
+    "product": "FLAMINGO",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 2500,
+    "details": "Size in meters\n1,50 x 0,85 x 0,50 (height x Lenght x Depth)\n\nStructure and Materials\nPainted Aluminum Structure\nSheet Metal \nLed strings\n\nNumber of Leds\n600\n\nPower Consuption\n43Watts"
+  },
+  {
+    "item": "RBR 016",
+    "product": "BAMBOO STICKS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 4000,
+    "details": "Size in meters\n2,50 x 2,40 x 0,40 (height x Lenght x Depth)\n\nStructure and Materials\nPaintedAluminum Structure\nSheet Metal \nLed strings \n\nNumber of Leds\n3600\n\nPower Consuption\n260 Watts"
+  },
+  {
+    "item": "RBR 017",
+    "product": "OCTOPUS WITH GIFT",
+    "photo": "",
+    "media": "OCTUPUS GIFT",
+    "quantity": 1,
+    "price": 50000,
+    "details": "Size in meters\n8,50 x 4,00 x 8,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nCarpet\nLed strings \n\nNumber of Leds\n37900\n\nPower Consuption\n2730 Watts"
+  },
+  {
+    "item": "RBR 018",
+    "product": "MAMMOTH",
+    "photo": "",
+    "media": "MAMMOTH",
+    "quantity": 1,
+    "price": 19500,
+    "details": "Size in meters\n3,90 x 5,45 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nGold and Red Carpet\nRobe light on the perimeter\nLed strings\n\nNumber of Leds\n6800\n\nPower Consuption\n490 Watts"
+  },
+  {
+    "item": "RBR 019",
+    "product": "SANTA CLAUS ROCKING",
+    "photo": "",
+    "media": "ROCKING SANTA CLAUS",
+    "quantity": 1,
+    "price": 55000,
+    "details": "Size in meters\n6,35 x 6,35 x 3 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nWood (fot the swing)\nColoured Carpet \nLed strings\nEngine for the swinging\n\nNumber of Leds\n16000\n\nPower Consuption\n1152 Watts"
+  },
+  {
+    "item": "RBR 020",
+    "product": "CARILLON",
+    "photo": "",
+    "media": "CARILLON",
+    "quantity": 1,
+    "price": 28000,
+    "details": "Size in meters\n7,00 x 5,50 x 4,00 (height x Lenght x Depth)\n\nStructure and Materials\nGold and Gray Aluminum Structure\nPlinth base: Aluminum composite red panel\nLed strings\n\nNumber of Leds\n13000\n\nPower Consuption\n1500 Watts"
+  },
+  {
+    "item": "RBR 021",
+    "product": "FLYING REINDEER",
+    "photo": "",
+    "media": "MALL DECORATION",
+    "quantity": 1,
+    "price": 8500,
+    "details": "Size in meters\n3,17 x 5,00 x 2,00 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nSheet Metal \nLed strings \n\nNumber of Leds\n3600\n\nPower Consuption\n260 Watts"
+  },
+  {
+    "item": "RBR 022",
+    "product": "BALL WITH GARLANDS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 1300,
+    "details": "Size in meters\n1,30 x 1,05 x 1,05 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nGreen Garlands\nPVC balls \nLed strings \n\nNumber of Leds\n1000\n\nPower Consuption\n72 Watts"
+  },
+  {
+    "item": "RBR 023",
+    "product": "RIBBON TREE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 20200,
+    "details": "Size in meters\n10,00 x 4,50 x 4,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRed Carpet\nLed strings + flashes\n\nNumber of Leds\n10500 Leds - 275 RGB Leds\n\nPower Consuption\n800 Watts"
+  },
+  {
+    "item": "RBR 024",
+    "product": "GIFT BOX",
+    "photo": "",
+    "media": "GIFT BOX",
+    "quantity": 1,
+    "price": 9500,
+    "details": "Size in meters\n4,00 x 4,00 x 4,00 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nRed  Carpet \nLed strings \n\nNumber of Leds\n10600\n\nPower Consuption\n765 Watts"
+  },
+  {
+    "item": "RBR 025",
+    "product": "SHOPPERS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 5200,
+    "details": "Size in meters  (height x Lenght x Depth)\nShopper 3,50 x 2,00 x 0,70\n\nStructure and Materials\nAluminum Structure\nRed and White Carpet \nLed strings  Rope light\n\nNumber of Leds\nSmall Shopper 1600\n\nPower Consuption\nShopper 205 Watts"
+  },
+  {
+    "item": "RBR 026",
+    "product": "CLOUD",
+    "photo": "",
+    "media": "CLOUD",
+    "quantity": 1,
+    "price": 1500,
+    "details": "Size in meters\n1,30 x 2,05 x 0,95 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nN. 14 balls in red and gold pvc, diam 20 cm\nLed strings \n\nNumber of Leds\n1500\n\nPower Consuption\n108 Watts"
+  },
+  {
+    "item": "RBR 027",
+    "product": "RGB STARS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 2200,
+    "details": "Size in meters\n2,00 x 2,00 x 0,25 (height x Lenght x Depth)\n\nStructure and Materials\nWeld Aluminum Tube\nRGB Leds\n\nNumber of Leds\n625\n\nPower Consuption\n375 Watts"
+  },
+  {
+    "item": "RBR 028",
+    "product": "CORAL TREE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 8700,
+    "details": "Size in meters\n10,00 x 5,84 x 0,15 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLed strings \n\nNumber of Leds\n5900\n\nPower Consuption\n425 Watts"
+  },
+  {
+    "item": "RBR 029",
+    "product": "SHAPES",
+    "photo": "",
+    "media": "SHAPES",
+    "quantity": 1,
+    "price": 400,
+    "details": "Size in meters\n2,00 x 2,00  (height x Lenght)\n\nStructure and Materials\nAluminum Structure\nLed strings \nRope light on the perimeter\n\nNumber of Leds\n400\n\nPower Consuption\n90 Watts"
+  },
+  {
+    "item": "RBR 030",
+    "product": "WARM TREE",
+    "photo": "",
+    "media": "WARM TREE",
+    "quantity": 1,
+    "price": 1400,
+    "details": "Size in meters\n2,35 x 3,20 (height x Lengh)\n\nStructure and Materials\nGold Aluminum Structure\nLed strings \n\nNumber of Leds\n900\n\nPower Consuption\n65 Watts"
+  },
+  {
+    "item": "RBR 031",
+    "product": "ICE BRANCH",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 650,
+    "details": "Size in meters\n2,00 x 1,60 x 1,60 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nLed strings\nNumber of Leds\n1200\n\nPower Consuption\n87 Watts"
+  },
+  {
+    "item": "RBR 032",
+    "product": "SMALL BUTTERFLY",
+    "photo": "",
+    "media": "FLOWERS",
+    "quantity": 1,
+    "price": 350,
+    "details": "Size in meters\n1,70 x 1,50 x 0,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRope Light\nLed strings \n\nNumber of Leds\n500\n\nPower Consuption\n42 Watts"
+  },
+  {
+    "item": "RBR 033",
+    "product": "DAISY",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 350,
+    "details": "Size in meters\n1,70 x 1,70 x 0,30 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLed strings \n\nNumber of Leds\n400\n\nPower Consuption\n29 Watts"
+  },
+  {
+    "item": "RBR 034",
+    "product": "FLOWERS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 3200,
+    "details": "Size in meters\nBig Flower 5,80 x 1,85 x 1,00 (height x Lenght x Depth)\nSmall Flower 4,30 x 1,85 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColoured Carpet\nLed strings \n\nNumber of Leds\nBig Flower 1700\nBig Small 1500\n\nPower Consuption\nBig Flower 125 Watts\nSmall Flawer 108 Watts"
+  },
+  {
+    "item": "RBR 035",
+    "product": "CROSSABLE BALL",
+    "photo": "",
+    "media": "CROSSABLE BALL",
+    "quantity": 1,
+    "price": 6500,
+    "details": "Size in meters\n5,50 x 4,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRed and Gold Carpet\nLed strings                                                                                                   Rope light\n\nNumber of Leds\n3600\n\nPower Consuption\n280 Watts"
+  },
+  {
+    "item": "RBR 036",
+    "product": "CROSSABLE FRAME",
+    "photo": "",
+    "media": "CROSSABLE FRAME",
+    "quantity": 1,
+    "price": 4000,
+    "details": "Size in meters\n5,45 x 4,50 x 0,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLight Blue Carpet\nLed strings + flashes Rope light\n\nNumber of Leds\n6300\n\nPower Consuption\n500 Watts"
+  },
+  {
+    "item": "RBR 037",
+    "product": "CROSSABLE STAR",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 5000,
+    "details": "Size in meters\n5,50 x 5,00 x 0,40 (height x Lenght x Depth)\n\nStructure and Materials\nGold Structure\nLed strings + flashes\n\nNumber of Leds\n6200\n\nPower Consuption\n500 Watts"
+  },
+  {
+    "item": "RBR 038",
+    "product": "MAGIC TRAIN",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 12650,
+    "details": "Size in meters\n2,85 x 4,90 x 2,20 (height x Lenght x Depth)\n\nStructure and Materials\nGoldAluminum Structure\nColoured Carpet\nLed strings + flashes\nRope light on the perimeter\n\nNumber of Leds\n2800\n\nPower Consuption\n202 Watts"
+  },
+  {
+    "item": "RBR 039",
+    "product": "RGB TREE",
+    "photo": "",
+    "media": "RGB TREE",
+    "quantity": 1,
+    "price": 57499.99999999999,
+    "details": "Size in meters\n18,00 x 7,00 x 7,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRGB Leds\nLed strings \n\nNumber of Leds\n10000 RGB - 25000 Could White \n\nPower Consuption\n6800 Watts ( max)"
+  },
+  {
+    "item": "RBR 040",
+    "product": "PYRAMIDS TREE",
+    "photo": "",
+    "media": "PYRAMID TREE",
+    "quantity": 1,
+    "price": 40250,
+    "details": "Size in meters\n18,00 x 6,00 x 6,00 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nRed and Gold Carpet\nLed strings  Rope light\n\nNumber of Leds\n18000\n\nPower Consuption\n1500 Watts"
+  },
+  {
+    "item": "RBR 041",
+    "product": "CHRISTMAS TREE",
+    "photo": "",
+    "media": "CHRISTMAS TREE",
+    "quantity": 1,
+    "price": 15500,
+    "details": "Size in meters\n10,00 x 4,00 x 4,00 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nRed and Gold Carpet\nLed strings \nN.250 balls, red pvc diam. 15 cm\n\nNumber of Leds\n13200\n\nPower Consuption\n950 Watts"
+  },
+  {
+    "item": "RBR 042",
+    "product": "SMALL PYRAMID TREE",
+    "photo": "",
+    "media": "SMALL PYRAMID TREE",
+    "quantity": 1,
+    "price": 17250,
+    "details": "Size in meters\n10,00 x 3,50 x 3,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRed and Gold Carpet\nLed strings \nRope light\n\nNumber of Leds\n16500\n\nPower Consuption\n1300 Watts"
+  },
+  {
+    "item": "RBR 043",
+    "product": "SWEET TEDDY",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 24000,
+    "details": "Size in meters\n5,22 x 11,00 x 3,10 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n11800\n\nPower Consuption\n688 Watts"
+  },
+  {
+    "item": "RBR 044",
+    "product": "SWEET HOUSE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 48299.99999999999,
+    "details": "Size in meters\n7,28 x 8,70 x 6,23 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\noloured Carpet\nLed strings + flashes\n\nNumber of Leds\n23100\n\nPower Consuption\n1344 Watts"
+  },
+  {
+    "item": "RBR 045",
+    "product": "SWEET TREE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 4800,
+    "details": "Size in meters\n4,82 x 3,79 x 4,21 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColouired Carpet\nLed strings + flashes\n\nNumber of Leds\n1800\n\nPower Consuption\n130 Watts"
+  },
+  {
+    "item": "RBR 046",
+    "product": "HEART OF HANDS",
+    "photo": "",
+    "media": "HEART OF HANDS",
+    "quantity": 1,
+    "price": 46000,
+    "details": "Size in meters\n7,00 x 12,50 x 3,70 (height x Lenght x Depth)\n\nStructure and Materials\nGold and White Aluminum Structure\nLed strings \n\nNumber of Leds\n28800\n\nPower Consuption\n2080 Watts"
+  },
+  {
+    "item": "RBR 047",
+    "product": "CROSSABLE HEART",
+    "photo": "",
+    "media": "CROSSABLE HEART",
+    "quantity": 1,
+    "price": 34500,
+    "details": "Size in meters\n5,30 x 8,20 x 2,50 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nRed Carpet\nLed strings \n\nNumber of Leds\n23700\n\nPower Consuption\n1705 Watts"
+  },
+  {
+    "item": "RBR 048",
+    "product": "HALLOWEEN PUMPKIN",
+    "photo": "",
+    "media": "HALLOWEEN PUMPKIN",
+    "quantity": 1,
+    "price": 40250,
+    "details": "Size in meters\n5,50 x 6,70 x 6,67 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nSheet Metal\nColoured Carpet\nLed strings \n\nNumber of Leds\n25200\n\nPower Consuption\n1820 Watts"
+  },
+  {
+    "item": "RBR 049",
+    "product": "FRIENDLY RABBIT",
+    "photo": "",
+    "media": "FRIENDLY RABBIT",
+    "quantity": 1,
+    "price": 14500,
+    "details": "Size in meters\n4,50 x 3,90 x 2,80 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nSilver Metallic Carpet\nLed strings \n\nNumber of Leds\n6300\n\nPower Consuption\n454 Watts"
+  },
+  {
+    "item": "RBR 050",
+    "product": "LONG SLIDE",
+    "photo": "",
+    "media": "LONG SLIDE",
+    "quantity": 1,
+    "price": null,
+    "details": "Size in meters\n20,00 x 400,00 x 1,20 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nColourated Carpet\nLed strings Rope Light\nN. 46 Flowers - N. 23 Balls - N. 23 Gift Boxes\n\nNumber of Leds\n70000\n\nPower Consuption\n5040 Watts"
+  },
+  {
+    "item": "RBR 051",
+    "product": "SANTA CLAUS ON PIANO",
+    "photo": "",
+    "media": "CHRISTMAS CONCERT",
+    "quantity": 1,
+    "price": 35000,
+    "details": "Size in meters\n3,60 x 6,00 x 3,60 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n8000\n\nPower Consuption\n577 Watts"
+  },
+  {
+    "item": "RBR 052",
+    "product": "REINDEER WITH DRUM",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 22000,
+    "details": "Size in meters\n3,65 x 2,75 x 1,90 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n6100\n\nPower Consuption\n512 Watts"
+  },
+  {
+    "item": "RBR 053",
+    "product": "REINDEER WITH TRUMPET",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 22000,
+    "details": "Size in meters\n3,65 x 2,24 x 1,95 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n6700\n\nPower Consuption\n483 Watts"
+  },
+  {
+    "item": "RBR 054",
+    "product": "REINDEER WITH ACCORDION",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 22000,
+    "details": "Size in meters\n3,65 x 1,80 x 1,98 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n7100\n\nPower Consuption\n511 Watts"
+  },
+  {
+    "item": "RBR 055",
+    "product": "REINDEER WITH DOUBLE BASS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 22000,
+    "details": "Size in meters\n3,69 x 1,88 x 1,80 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nColoured Carpet\nLed strings + flashes\nNeon Flex led\n\nNumber of Leds\n6700\n\nPower Consuption\n514 Watts"
+  },
+  {
+    "item": "RBR 056",
+    "product": "NOTE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 1300,
+    "details": "Size in meters\n1,50 x 1,14 x 0,11 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nPVC Mirror\nLed strings + flashes\n\nNumber of Leds\n400\n\nPower Consuption\n30 Watts"
+  },
+  {
+    "item": "RBR 057",
+    "product": "NOTA 2D",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 180,
+    "details": "Size in meters\n1 x 0,5 x 0,15 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash \nTube light\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 058",
+    "product": "NOTE 3D BIG",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 9780,
+    "details": "Size in meters\n5,00 x 4,50 x 1,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash + golden mirror\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 059",
+    "product": "NOTE 3D SMALL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 4800,
+    "details": "Size in meters\n2,50 x 2,00 x 0,75 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash \n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 060",
+    "product": "NOTE 3D PODIO",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 4800,
+    "details": "Size in meters\n3,00 x 2,00 x 2,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 061",
+    "product": "CARILLON TREE WITH REINDEERS",
+    "photo": "",
+    "media": "CARILLON TREE",
+    "quantity": 1,
+    "price": 50000,
+    "details": "Size in meters\nTree: 12,00 x 4,00 x 4,00 (height x Lenght x Depth) \nReindeer: 3,17 x 5,00 x 2,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nGreen Garlands\nSheet Metal \nLed strings + flashes\nEngine for the rotation\n\nNumber of Leds\n25500 tree\n3600 1 reindeer (3pz. on this tree)\n\nPower Consuption\n2800 Watts"
+  },
+  {
+    "item": "RBR 062",
+    "product": "DOLPHIN",
+    "photo": "",
+    "media": "UNDER WATER WORLD",
+    "quantity": 1,
+    "price": 9900,
+    "details": "Size in meters\n2,55 x 2,30 x 1,50 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum tube\nLed strings \nStrip led RGB\n\nNumber of Leds\n3600\n40m strip led rgb\n\nPower Consuption\n500 Watts"
+  },
+  {
+    "item": "RBR 063",
+    "product": "SHARK",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 8500,
+    "details": "Size in meters\n1,62 x 2,60 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nLed strings \nNeon Flex Led\n\nNumber of Leds\n2200\n\nPower Consuption\n160 Watts"
+  },
+  {
+    "item": "RBR 064",
+    "product": "OCTOPUS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 8350,
+    "details": "Size in meters\n1,76 x 2,00 x 2,00 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nLed strings \n\nNumber of Leds\n3600\n\nPower Consuption\n500 Watts"
+  },
+  {
+    "item": "RBR 065",
+    "product": "JELLYFISH SPLASH",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 19500,
+    "details": "Size in meters\n5,27 x 2,80 x 2,80 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nRGB Leds\nLed strings + flashes\nStrip led RGB\n\nNumber of Leds\n5600\n90m strip led RGB\n\nPower Consuption\n620 Watts"
+  },
+  {
+    "item": "RBR 066",
+    "product": "MANTA RAY TUNNEL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 39000,
+    "details": "Size in meters\n3,00 x 7,00 x 3,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nNeon Flex led\nLed strings + flashes\n\nNumber of Leds\n6800 \n15m neon flex\n\nPower Consuption\n640 Watts"
+  },
+  {
+    "item": "RBR 067",
+    "product": "SEAHORSE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 3500,
+    "details": "Size in meters\n2,60 x 1,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n1100\n\nPower Consuption\n80 Watts"
+  },
+  {
+    "item": "RBR 068",
+    "product": "NEMO FISH",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 9100,
+    "details": "Size in meters\n2,40 x 4,20 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \nRope light\n\nNumber of Leds\n1800\n\nPower Consuption\n180 Watts"
+  },
+  {
+    "item": "RBR 069",
+    "product": "TURTLE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 13500,
+    "details": "Size in meters\n2,05 x 2,90 x 3,25 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \n\nNumber of Leds\n2600\n\nPower Consuption\n190 Watts"
+  },
+  {
+    "item": "RBR 070",
+    "product": "PANEL ENTRANCE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 5550,
+    "details": "Size in meters\n4,00 x 4,00 x 0,30 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nNeon Flex led\nLed strings + flashes\n\nNumber of Leds\n6800 + 15m neon flex\n\nPower Consuption\n640 Watts"
+  },
+  {
+    "item": "RBR 071",
+    "product": "CHRISTMAS ARCH",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": null,
+    "details": "Size in meters\n4,75 x 13,45 x 5,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nGold Aluminum Sheet\nPVC Balls\nGarlands\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 072",
+    "product": "RGB ARCH",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": null,
+    "details": "Size in meters\n3,65 x 6,00 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nGold Aluminum Sheet\nNeon flex\nLeds string \n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 073",
+    "product": "STYLIZED NUTCRAKER",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 7500,
+    "details": "Size in meters\n4,20 x 1,05  x 0,95  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\nCarpet\n\nNumber of Leds\n1800\n\nPower Consuption\n130 Watts"
+  },
+  {
+    "item": "RBR 074",
+    "product": "NUTCRAKER 3D",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 12500,
+    "details": "Size in meters\n3,5 x 1,05  x 0,95  (height x Lenght x Depth)\nPodium 0,7 x 1 x 1 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n1800\n\nPower Consuption\n130 Watts"
+  },
+  {
+    "item": "RBR 075",
+    "product": "FOOTBALL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 7500,
+    "details": "Size in meters\n4,00 x 3,00 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string \n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 076",
+    "product": "GIANT BALL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 9500,
+    "details": "Size in meters\n5,00 x 4,00 x 4,00(height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nStrip led RGB \nLeds string \n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 077",
+    "product": "WALK THROUGH CHRISTMAS BALL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 10500,
+    "details": "Size in meters\n4 x 3,5 x 3,5 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 078",
+    "product": "TREE MIRRORS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 12500,
+    "details": "Size in meters\n6,00 x 3,00 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash golden mirror\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 079",
+    "product": "LIGHT FOUNTAIN SMALL",
+    "photo": "",
+    "media": "Price without podium",
+    "quantity": 1,
+    "price": 13000,
+    "details": "Size in meters\n3,50 x 5,10 x 5,10 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n5400\n380m strip led RGB\n\nPower Consuption\n1900W"
+  },
+  {
+    "item": "RBR 080",
+    "product": "LIGHT FOUNTAIN BIG",
+    "photo": "",
+    "media": "Price without podium",
+    "quantity": 1,
+    "price": 16500,
+    "details": "Size in meters\n5,50 x 5,10 x 5,10 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nStrip led RGB \nLeds string \n\nNumber of Leds\n7200 \n440m strip led rgb\n\nPower Consuption\n2300 W"
+  },
+  {
+    "item": "RBR 081",
+    "product": "3D BALL BENCH",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 7500,
+    "details": "Size in meters\n2,6 x 2,3 x 1,6 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\nCarpet\n\nNumber of Leds\n3800\n\nPower Consuption\n290 Watts"
+  },
+  {
+    "item": "RBR 082",
+    "product": "SANTA CLAUS BOOK",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 42000,
+    "details": "Size in meters (only book)\n6,50 x 4,70 x 4,70 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nBacklit Opaline\nCarpet\nLeds string       Neon Flex\nNumber of Leds\n30500 \n100m neon flex\n\nPower Consuption\n3100W"
+  },
+  {
+    "item": "RBR 083",
+    "product": "BEAR WITH SKI",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 13500,
+    "details": "Size in meters\n4,00 x 3,30 x 3,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRed and White Carpet\nLeds string  Rope light around the skis\n\nNumber of Leds\n6000\n\nPower Consuption\n500W"
+  },
+  {
+    "item": "RBR 084",
+    "product": "BEAR WITH BENCH",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 11000,
+    "details": "Size in meters\n2,80 x 2,50 x 2,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRed and Gold Carpet\nLed strings\nCarpet\n\nNumber of Leds\n4500\n\nPower Consuption\n325W"
+  },
+  {
+    "item": "RBR 085",
+    "product": "REINDEER TEDDY",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 11000,
+    "details": "Size in meters\n5,50 x 5,30 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRope Light Led\nLeds string \n\nNumber of Leds\n7900\n\nPower Consuption\n800 Watts"
+  },
+  {
+    "item": "RBR 086",
+    "product": "HEART",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 5500,
+    "details": "Size in meters\n2,50 x 3,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nNeon Flex Led\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 087",
+    "product": "TEDDY 3D",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 5650,
+    "details": "Size in meters\n3,00 x 2,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nNeon Flex Led\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 088",
+    "product": "3D GIFT",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 6200,
+    "details": "Size in meters\n3,00 x 2,30 x 2,30 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nNeon Flex Led\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 089",
+    "product": "WALK THROUGH DEER",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 6500,
+    "details": "Size in meters\n4,50 x 3,00 x 1,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 090",
+    "product": "TEDDY",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 8600,
+    "details": "Size in meters\n5,50 x 5,00 x 1,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 091",
+    "product": "SEATING CRYSTAL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 7500,
+    "details": "Size in meters\n3,50 x 3,00 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 092",
+    "product": "REINDEER 2D WITH BIRDS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 5800,
+    "details": "Size in meters\n3,5 x 3,5 x 1 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nRope Light Led\nPVC Balls\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 093",
+    "product": "SPLIT CONE RED TREE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 50000,
+    "details": "Size in meters\n11,00 x 7,60 x 6,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nLeds string + flash\nCarpet\n\nNumber of Leds\n42000\n\nPower Consuption\n6050W"
+  },
+  {
+    "item": "RBR 094",
+    "product": "MIRROR SPLIT TREE",
+    "photo": "",
+    "media": "MIRROR SPIT TREE",
+    "quantity": 1,
+    "price": 42000,
+    "details": "Size in meters\n8,00 x 6,50 x 5,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 095",
+    "product": "CHANDELIER TREE WITH BALLS",
+    "photo": "",
+    "media": "CHANDELIER TREE WITH BALLS",
+    "quantity": 1,
+    "price": null,
+    "details": "Size in meters \n11,00 x 3,50  x 3,50  (height x Lenght x Depth) Big\n   6,5    x 3,20  x 3,20  (height x Lenght x Depth) Small\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \n196 PVC Balls (Big)\n137 PVC Balls (Small)\nNumber of Leds\n15300\n8000\nPower Consuption\n1100 Watts (Big)\n600 Watts (Small)"
+  },
+  {
+    "item": "RBR 096",
+    "product": "CHANDELIER TREE WITH BALLS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 2200,
+    "details": "Size in meters\n2,00 x 1,50  x 1,50  (height x Lenght x Depth) \n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \n61 PVC Balls \n\nNumber of Leds\n800\n\nPower Consuption\n100 Watts"
+  },
+  {
+    "item": "RBR 097",
+    "product": "ARCH BALL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 7500,
+    "details": "Size in meters\n4,00 x 6,30 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAlluminum Sheet\nPVC Balls\nLeds string\nRope light\n\nNumber of Leds\n6400\n\nPower Consuption\n470W"
+  },
+  {
+    "item": "RBR 098",
+    "product": "EIFFEL TOWER",
+    "photo": "",
+    "media": "EIFFEL TOWER",
+    "quantity": 1,
+    "price": 34500,
+    "details": "Size in meters\n12,00 x 5,00  x 5,00  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB Leds\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 099",
+    "product": "PYRAMID",
+    "photo": "",
+    "media": "PYRAMID AND SPHINX",
+    "quantity": 1,
+    "price": 45000,
+    "details": "Size in meters\n7,00 x 10,00  x 10,00  (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nGoldAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n35000\n\nPower Consuption\n2520 Watts"
+  },
+  {
+    "item": "RBR 100",
+    "product": "SPHINX",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 16000,
+    "details": "Size in meters\n3,35 x 9,60  x 2,20  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColoured Aluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n10500\n\nPower Consuption\n756 Watts"
+  },
+  {
+    "item": "RBR 101",
+    "product": "PISA TOWER",
+    "photo": "",
+    "media": "PISA TOWER",
+    "quantity": 1,
+    "price": 42500,
+    "details": "Size in meters\n8,90 x 2,50  x 2,50  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings  105\nRope light\nNeon flex   \n\nNumber of Leds\n10500 led  \n122 m rope light   6m neon flex\n\nPower Consuption\n1050 Watts"
+  },
+  {
+    "item": "RBR 102",
+    "product": "T-REX",
+    "photo": "",
+    "media": "T_REX",
+    "quantity": 1,
+    "price": 50000,
+    "details": "Size in meters\n6,00 x 12,20  x 3,50  (height x Lenght x Depth)\n\nStructure and Materials\nRed Aluminum Structure\nRed Aluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n19200\n\nPower Consuption\n1385 Watts"
+  },
+  {
+    "item": "RBR 103",
+    "product": "BRONTOSAURUS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 29500,
+    "details": "Size in meters\n2,80 x 11  x 1,50  (height x Lenght x Depth)\n\nStructure and Materials\nGreen Aluminum Structure\nGreen Aluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 104",
+    "product": "STEGOSAURUS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 24500,
+    "details": "Size in meters\n2,70 x 5  x 1,30  (height x Lenght x Depth)\n\nStructure and Materials\nPink Aluminum Structure\nPink Aluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n-\n\nPower Consuption\n-"
+  },
+  {
+    "item": "RBR 105",
+    "product": "TRICERATOPS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 21500,
+    "details": "Size in meters\n2,46 x 5  x 2,00  (height x Lenght x Depth)\n\nStructure and Materials\nBlue Aluminum Structure\nBlueAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n-\n\nPower Consuption\n- Watts"
+  },
+  {
+    "item": "RBR 106",
+    "product": "SITTING SANTA CLAUS",
+    "photo": "",
+    "media": "SITTING SANTA",
+    "quantity": 1,
+    "price": 75000,
+    "details": "Size in meters\n7,40 x 5,20  x 4,30  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nSluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n20700\n\nPower Consuption\n1490 Watts"
+  },
+  {
+    "item": "RBR 107",
+    "product": "SITTING SANTA CLAUS SMALL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 52500,
+    "details": "Size in meters\n5,00 x 3,50  x 2,80  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nSluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n14800\n\nPower Consuption\n1065 Watts"
+  },
+  {
+    "item": "RBR 108",
+    "product": "SANTA WITH SLEIGH AND 4 REINDEERS",
+    "photo": "",
+    "media": "SANTA WITH SLEIGH",
+    "quantity": 1,
+    "price": null,
+    "details": "Size in meters\nSanta: 3,30 x 4,90  x 3,50  (height x Lenght x Depth)\n4 Reindeer: 3,60 x 2,50  x 2,20  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n10800\n\nPower Consuption\n778 Watts"
+  },
+  {
+    "item": "RBR 109",
+    "product": "CANDLE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 14000,
+    "details": "Size in meters\n7,00 x 3,00  x 3,00  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nGarlands\nPVC Balls\nCarpet\nLed strings + flashes\n\nNumber of Leds\n5600\nPower Consuption\n404 Watts"
+  },
+  {
+    "item": "RBR 110",
+    "product": "BELL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 16000,
+    "details": "Size in meters\n5,00 x 4,00  x 4,00  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nPVC Balls\nLed strings + flashes\n\nNumber of Leds\n6400\n\nPower Consuption\n460 Watts"
+  },
+  {
+    "item": "RBR 111",
+    "product": "KICKING ELK",
+    "photo": "",
+    "media": "ELK DEER AND WOLF",
+    "quantity": 1,
+    "price": 55000,
+    "details": "Size in meters\n8,00 x 9,00  x 4,20  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n14800\n\nPower Consuption\n1065 Watts"
+  },
+  {
+    "item": "RBR 112",
+    "product": "DEER FAMILY",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": null,
+    "details": "Size in meters\nBig: 7,30 x 8,90  x 5,40  (height x Lenght x Depth)\nSmall: 3,00 x 3,55  x 1,20  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\nBig: 13800\nSmall: 5000\n\nPower Consuption\nBig: 994 Watts\nSmall: 360 Watts"
+  },
+  {
+    "item": "RBR 113",
+    "product": "WOLF HOWLING",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 42000,
+    "details": "Size in meters\n6,00 x 7,50  x 1,80  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n12900\n\nPower Consuption\n930 Watts"
+  },
+  {
+    "item": "RBR 114",
+    "product": "DRAGON",
+    "photo": "",
+    "media": "DRAGON",
+    "quantity": 1,
+    "price": 45000,
+    "details": "Size in meters\n4,65 x 13,90  x 5,15  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n20000 led\n\n\nPower Consuption\n2985 Watts"
+  },
+  {
+    "item": "RBR 115",
+    "product": "SKIER RGB NO STAND",
+    "photo": "",
+    "media": "SKIER",
+    "quantity": 1,
+    "price": 30000,
+    "details": "Size in meters\n4,00 x 7,80  x 2,70  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB Led Strings\nNeon flex Cold White 24 V\n\nNumber of Leds\n4000  RGB (skier)\n\nPower Consuption\n700 W  ( it depends by the scenography)"
+  },
+  {
+    "item": "RBR 116",
+    "product": "SKIER NO STAND",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 25000,
+    "details": "Size in meters\n4,00 x 7,80  x 2,70  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed Strings\nNeon flex Cold White \n\nNumber of Leds\n8000  (skier)\n\nPower Consuption\n700 W"
+  },
+  {
+    "item": "RBR 117",
+    "product": "SKIER SMALL NO STAND",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 18500,
+    "details": "Size in meters\n2,50 x 2,80  x 1,70  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \nNeon flex\n\nNumber of Leds\n3400 \n12m neon flex\nPower Consuption\n365 Watts"
+  },
+  {
+    "item": "RBR 118",
+    "product": "ICE SPIKE RGB (SET BY 4 PIECES)",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 5500,
+    "details": "Size in meters\n     4 x 0,60  x 0,60  (height x Lenght x Depth)\n3,4 x 0,60  x 0,60  (height x Lenght x Depth)\n2,9 x 0,60  x 0,60  (height x Lenght x Depth)\n2,5 x 0,60  x 0,60  (height x Lenght x Depth)\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB Led Strings\n\nNumber of Leds\n2015  RGB \n\nPower Consuption\n350/1000 Watts  ( it depends by the scenography)"
+  },
+  {
+    "item": "RBR 119",
+    "product": "ICE SPIKE (SET BY 4 PIECES)",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 4000,
+    "details": "Size in meters\n     4 x 0,60  x 0,60  (height x Lenght x Depth)\n3,4 x 0,60  x 0,60  (height x Lenght x Depth)\n2,9 x 0,60  x 0,60  (height x Lenght x Depth)\n2,5 x 0,60  x 0,60  (height x Lenght x Depth)\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed Strings\n\nNumber of Leds\n3500  \n\nPower Consuption\n350/1000 Watts  ( it depends by the scenography)"
+  },
+  {
+    "item": "RBR 120",
+    "product": "GOLD HANGING CHRISTMAS TREE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 36000,
+    "details": "Size in meters\n7 x 4  x 4  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \nNeon flex"
+  },
+  {
+    "item": "RBR 121",
+    "product": "3D HANGING WREATH REINDEER",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 16000,
+    "details": "Size in meters\n3,50 x 3,50  x 2,19  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \nNeon flex\n\nNumber of Leds\n5600\n40 m neon flex\nPower Consuption\n  Watts"
+  },
+  {
+    "item": "RBR 122",
+    "product": "3D HANGING BALL",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 14500,
+    "details": "Size in meters\n3,26 x 2,83  x 2,83  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \nNeon flex\n\nNumber of Leds\n7200 \n40 m neon flex\nPower Consuption\n Watts"
+  },
+  {
+    "item": "RBR 123",
+    "product": "3D HANGING HEART",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 15000,
+    "details": "Size in meters\n3,00 x 3,50  x 1,20  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \nNeon flex\n\nNumber of Leds\n3000\n22m neon flex\nPower Consuption\n Watts"
+  },
+  {
+    "item": "RBR 124",
+    "product": "2D SUBJECT ONE FACE",
+    "photo": "",
+    "media": "TOYS",
+    "quantity": 1,
+    "price": 180,
+    "details": "Size in meters\n0,80  x 0,80  x 2 cm  (height x Lenght x Depth)\n\nStructure and Materials\nForex and Colored Dibond\nNeon flex\nIncluded one transformer each 3 toys\n\nPower Consuption\n 30 Watts 24 Volt"
+  },
+  {
+    "item": "RBR 125",
+    "product": "2D SUBJECT DOUBLE FACE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 300,
+    "details": "Size in meters\n0,80  x 0,80  x 4 cm  (height x Lenght x Depth)\n\nStructure and Materials\nForex and Colored Dibond\nNeon flex\nIncluded one transformer each 2 toys\n\nNumber of Leds\n m neon flex\n\nPower Consuption\n 50 Watts 24 Volt"
+  },
+  {
+    "item": "RBR 126",
+    "product": "RGB WHALE",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 30000,
+    "details": "Size in meters\n3,5 x 7  x 6  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB led light\n\n\nNumber of Leds\n9000\n\nPower Consuption\n200 Watts"
+  },
+  {
+    "item": "RBR 127",
+    "product": "RGB CHAMALEON WITH TRUNK",
+    "photo": "",
+    "media": "CHAMALEON",
+    "quantity": 1,
+    "price": 18000,
+    "details": "Size in meters\n2.4 x 5  x 1,5  (height x Lenght x Depth)\n\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB lights\n\nNumber of Leds\n\n\nPower Consuption\nWatts"
+  },
+  {
+    "item": "RBR 128",
+    "product": "SMALL SANTA WITH SLEIGH AND 3 REINDEERS",
+    "photo": "",
+    "media": "",
+    "quantity": 1,
+    "price": 35000,
+    "details": "Size in meters\n2,70 x 8,70  x 4  (height x Lenght x Depth)\n\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\nCarpet\n\nNumber of Leds\n9000\n\nPower Consuption\n675 Watts"
+  },
+  {
+    "item": "",
+    "product": "Price excluded taxes transport and installing",
+    "photo": "",
+    "media": "",
+    "quantity": null,
+    "price": null,
+    "details": ""
+  }
+]
