@@ -1,7 +1,6 @@
 const fmtEUR = new Intl.NumberFormat('it-IT', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
 
 let DATA = [];
-let LAST_QUERY = '';
 
 const el = (id) => document.getElementById(id);
 
@@ -26,17 +25,24 @@ function scoreItem(item, q){
   let score = 0;
   for(const t of terms){
     if(hay.includes(t)) score += 10;
-    // bonus if it matches code or start of product
     if(normalize(item.item).includes(t)) score += 25;
     if(normalize(item.product).startsWith(t)) score += 12;
   }
   return score;
 }
 
+function escapeHtml(str){
+  return (str||'').toString()
+    .replaceAll('&','&amp;')
+    .replaceAll('<','&lt;')
+    .replaceAll('>','&gt;')
+    .replaceAll('"','&quot;')
+    .replaceAll("'",'&#039;');
+}
+
 function render(list){
   const grid = el('grid');
   grid.innerHTML = '';
-
   el('count').textContent = `${list.length} prodotti`;
 
   for(const it of list){
@@ -46,7 +52,6 @@ function render(list){
     const thumb = document.createElement('div');
     thumb.className = 'thumb';
 
-    // Photo: if it's a URL or a relative file (assets/..), show it; otherwise placeholder.
     const photo = (it.photo||'').trim();
     if(photo && (hasUrl(photo) || photo.startsWith('assets/'))){
       const img = document.createElement('img');
@@ -73,6 +78,7 @@ function render(list){
 
     const right = document.createElement('div');
     right.className = 'pills';
+
     right.appendChild(pill(it.price != null ? fmtEUR.format(it.price) : 'Prezzo n.d.', it.price != null ? '' : 'muted'));
     right.appendChild(pill(it.quantity != null ? `Q.tà: ${it.quantity}` : 'Q.tà: n.d.', it.quantity != null ? '' : 'muted'));
 
@@ -103,24 +109,13 @@ function pill(text, extraClass=''){
   return s;
 }
 
-function escapeHtml(str){
-  return (str||'').toString()
-    .replaceAll('&','&amp;')
-    .replaceAll('<','&lt;')
-    .replaceAll('>','&gt;')
-    .replaceAll('"','&quot;')
-    .replaceAll("'",'&#039;');
-}
-
 function openDialog(it){
   el('dlgTitle').textContent = it.product || '—';
   el('dlgCode').textContent = it.item || '';
   el('dlgPrice').textContent = it.price != null ? fmtEUR.format(it.price) : 'Prezzo n.d.';
   el('dlgQty').textContent = it.quantity != null ? `Q.tà: ${it.quantity}` : 'Q.tà: n.d.';
-
   el('dlgDetails').textContent = it.details || '—';
 
-  // media
   const m = (it.media||'').trim();
   const wrap = el('dlgMediaWrap');
   if(m){
@@ -130,7 +125,6 @@ function openDialog(it){
     wrap.style.display = 'none';
   }
 
-  // image
   const photo = (it.photo||'').trim();
   const box = el('dlgImg');
   box.innerHTML = '';
@@ -139,7 +133,7 @@ function openDialog(it){
     img.alt = it.product || it.item || 'Foto prodotto';
     img.src = photo;
     box.appendChild(img);
-  }else{
+  } else {
     const ph = document.createElement('div');
     ph.className = 'ph';
     ph.textContent = initials(it.product || it.item);
@@ -152,7 +146,6 @@ function openDialog(it){
 function applyFilters(){
   const qRaw = el('q').value || '';
   const q = normalize(qRaw.trim());
-  LAST_QUERY = q;
 
   const onlyWithPrice = el('onlyWithPrice').checked;
   const sort = el('sort').value;
@@ -169,7 +162,6 @@ function applyFilters(){
     list = list.filter(it => it.price != null);
   }
 
-  // sorting
   if(sort === 'az'){
     list.sort((a,b) => (a.product||'').localeCompare(b.product||'', 'it', {sensitivity:'base'}));
   } else if(sort === 'za'){
@@ -178,11 +170,10 @@ function applyFilters(){
     list.sort((a,b) => (a.price ?? Infinity) - (b.price ?? Infinity));
   } else if(sort === 'priceDesc'){
     list.sort((a,b) => (b.price ?? -Infinity) - (a.price ?? -Infinity));
-  } else { // relevance
+  } else {
     if(q){
       list.sort((a,b) => (b._score||0) - (a._score||0));
     } else {
-      // default: by code
       list.sort((a,b) => (a.item||'').localeCompare(b.item||'', 'it', {numeric:true, sensitivity:'base'}));
     }
   }
@@ -193,8 +184,6 @@ function applyFilters(){
 async function init(){
   const res = await fetch('./data.json', {cache:'no-store'});
   DATA = await res.json();
-
-  // basic cleanup: drop completely empty rows
   DATA = DATA.filter(x => (x.item||x.product||x.details||x.media||x.photo));
 
   el('q').addEventListener('input', applyFilters);
