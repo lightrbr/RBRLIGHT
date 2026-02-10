@@ -12,6 +12,13 @@ function hasUrl(s){
   return /^https?:\/\//i.test((s||'').trim());
 }
 
+
+function extractUrls(text){
+  const t = (text || '').toString();
+  const matches = t.match(/https?:\/\/[^\s)]+/g);
+  return matches ? [...new Set(matches)] : [];
+}
+
 function initials(name){
   const words = (name||'').split(/\s+/).filter(Boolean);
   if (!words.length) return '★';
@@ -117,16 +124,25 @@ function openDialog(it){
   el('dlgDetails').textContent = it.details || '—';
   el('dlgNote').textContent = 'Note: Prices exclude taxes, transport and installation.';
 
-
-
   const m = (it.media||'').trim();
   const wrap = el('dlgMediaWrap');
+
   if(m){
     wrap.style.display = '';
-    el('dlgMedia').textContent = m;
-  }else{
+    const urls = extractUrls(m);
+
+    if(urls.length){
+      el('dlgMedia').innerHTML = urls
+        .map(u => `<div><a href="${u}" target="_blank" rel="noopener">Open OneDrive link</a></div>`)
+        .join('');
+    } else {
+      el('dlgMedia').textContent = m;
+    }
+  } else {
     wrap.style.display = 'none';
+    el('dlgMedia').textContent = '';
   }
+
 
   const photo = (it.photo||'').trim();
   const box = el('dlgImg');
