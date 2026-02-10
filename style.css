@@ -1,19 +1,27 @@
-/* Minimal, pulito, responsive */
+/* === RBR Light — Gold theme (safe, complete) === */
 :root{
-  --bg:#0b1020;
-  --card:#121a33;
-  --muted:#98a2b3;
-  --text:#eef2ff;
-  --border:rgba(255,255,255,.10);
+  --bg:#0b0b0b;
+  --card:#121212;
+  --card2:#0f0f0f;
+  --text:#f5f5f5;
+  --muted:#c9b27c;
+
+  --gold:#c9a24d;
+  --gold-soft:#e6cf8b;
+  --gold-dark:#9f7c2f;
+
+  --border:rgba(201,162,77,.30);
+  --border-strong:rgba(201,162,77,.55);
 }
 
 *{ box-sizing:border-box; }
 body{
   margin:0;
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
-  background: radial-gradient(1200px 800px at 20% 0%, rgba(124,92,255,.25), transparent 55%),
-              radial-gradient(900px 700px at 90% 10%, rgba(0,214,255,.12), transparent 50%),
-              var(--bg);
+  background:
+    radial-gradient(900px 700px at 20% 0%, rgba(201,162,77,.18), transparent 55%),
+    radial-gradient(800px 600px at 90% 10%, rgba(230,207,139,.08), transparent 50%),
+    var(--bg);
   color: var(--text);
 }
 
@@ -22,7 +30,7 @@ body{
   top: 0;
   z-index: 10;
   padding: 18px 16px;
-  background: rgba(11,16,32,.72);
+  background: rgba(11,11,11,.82);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
 }
@@ -30,21 +38,19 @@ body{
 .brand{
   display:flex;
   align-items:center;
-  gap:12px;
+  gap:14px;
   margin-bottom:12px;
 }
 
-.logo{
-  width:44px;height:44px;
-  border-radius:14px;
-  display:grid;place-items:center;
-  background: linear-gradient(135deg, rgba(124,92,255,.9), rgba(0,214,255,.6));
-  font-weight:800;
-  letter-spacing:.5px;
+.logo-img{
+  height: 48px;
+  width: auto;
+  object-fit: contain;
+  display:block;
 }
 
-.title{ font-size:18px; font-weight:700; }
-.subtitle{ font-size:12px; color: var(--muted); margin-top:2px; }
+.title{ font-size:18px; font-weight:800; color: var(--gold); }
+.subtitle{ font-size:12px; color: var(--gold-soft); margin-top:2px; }
 
 .controls{
   display:flex;
@@ -57,13 +63,18 @@ body{
   padding:10px 12px;
   border-radius:12px;
   border:1px solid var(--border);
-  background: rgba(255,255,255,.06);
+  background: rgba(255,255,255,.04);
   color: var(--text);
   outline: none;
 }
 .controls input[type="search"]{ min-width: 240px; flex: 1; }
 .controls select{ min-width: 220px; }
-.controls option{ background: #0b1020; }
+.controls option{ background: #0b0b0b; }
+
+.controls input[type="search"]:focus, .controls select:focus{
+  border-color: var(--border-strong);
+  box-shadow: 0 0 0 1px rgba(201,162,77,.35);
+}
 
 .check{
   display:flex;
@@ -91,12 +102,14 @@ body{
 .btn{
   padding:10px 12px;
   border-radius:12px;
-  border:1px solid var(--border);
-  background: rgba(255,255,255,.06);
-  color: var(--text);
+  border:1px solid var(--border-strong);
+  background: rgba(255,255,255,.03);
+  color: var(--gold-soft);
   cursor:pointer;
 }
-.btn:hover{ border-color: rgba(255,255,255,.22); }
+.btn:hover{
+  background: rgba(201,162,77,.10);
+}
 
 .grid{
   display:grid;
@@ -112,21 +125,25 @@ body{
 
 .card{
   border:1px solid var(--border);
-  background: rgba(18,26,51,.75);
+  background: rgba(18,18,18,.88);
   border-radius: 18px;
   overflow:hidden;
   display:flex;
   flex-direction:column;
   min-height: 150px;
 }
-.card:hover{ border-color: rgba(255,255,255,.20); transform: translateY(-1px); transition: 150ms; }
+.card:hover{
+  border-color: var(--border-strong);
+  transform: translateY(-1px);
+  transition: 150ms;
+}
 
 .thumb{
   height: 150px;
   display:grid;
   place-items:center;
   border-bottom:1px solid var(--border);
-  background: linear-gradient(135deg, rgba(124,92,255,.25), rgba(0,214,255,.08));
+  background: linear-gradient(135deg, rgba(201,162,77,.18), rgba(230,207,139,.06));
 }
 .thumb img{
   width:100%;
@@ -137,36 +154,48 @@ body{
 .thumb .ph{
   font-size: 34px;
   font-weight: 800;
-  opacity: .9;
+  opacity: .92;
+  color: var(--gold-soft);
 }
 
 .card-body{ padding: 12px 12px 14px; display:flex; flex-direction:column; gap:8px; }
 .card-top{ display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
-.name{ font-weight: 700; font-size: 15px; }
+.name{ font-weight: 800; font-size: 15px; }
 .code{ color: var(--muted); font-size: 12px; }
+
 .pills{ display:flex; gap:8px; flex-wrap:wrap; margin-top:4px; }
 .pill{
   font-size:12px;
   padding: 6px 10px;
   border-radius: 999px;
   border:1px solid var(--border);
-  background: rgba(255,255,255,.06);
-  color: var(--text);
+  background: rgba(255,255,255,.03);
+  color: var(--gold-soft);
 }
-.pill.muted{ color: var(--muted); }
 
 .card-actions{ margin-top:auto; display:flex; gap:8px; }
 .card-actions .btn{ flex:1; }
 
+.footer-note{
+  margin-top: 18px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: rgba(255,255,255,.03);
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .dlg{
   width: min(980px, 96vw);
-  border: 1px solid var(--border);
+  border: 1px solid var(--border-strong);
   border-radius: 18px;
-  background: rgba(11,16,32,.92);
+  background: rgba(11,11,11,.94);
   color: var(--text);
 }
-.dlg::backdrop{ background: rgba(0,0,0,.65); }
+.dlg::backdrop{ background: rgba(0,0,0,.70); }
 .dlg-inner{ padding: 14px; }
+
 .dlg-top{
   display:flex;
   justify-content:space-between;
@@ -176,7 +205,7 @@ body{
   padding-bottom: 12px;
   margin-bottom: 12px;
 }
-.dlg-title{ font-size:18px; font-weight:800; }
+.dlg-title{ font-size:18px; font-weight:900; color: var(--gold); }
 .dlg-code{ color: var(--muted); font-size: 13px; margin-top: 2px; }
 
 .dlg-body{
@@ -187,6 +216,7 @@ body{
 @media (min-width: 820px){
   .dlg-body{ grid-template-columns: 360px 1fr; }
 }
+
 .dlg-img{
   height: 240px;
   border-radius: 14px;
@@ -194,41 +224,36 @@ body{
   overflow:hidden;
   display:grid;
   place-items:center;
-  background: linear-gradient(135deg, rgba(124,92,255,.25), rgba(0,214,255,.08));
+  background: linear-gradient(135deg, rgba(201,162,77,.18), rgba(230,207,139,.06));
 }
 .dlg-img img{ width:100%; height:100%; object-fit:cover; display:block; }
 
-.dlg-info h3{ margin: 10px 0 6px; font-size: 13px; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: .06em; }
+.dlg-info h3{
+  margin: 10px 0 6px;
+  font-size: 13px;
+  color: var(--muted);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
+
 .details{
   white-space: pre-wrap;
   line-height: 1.35;
   font-size: 14px;
-  color: rgba(238,242,255,.92);
+  color: rgba(245,245,245,.92);
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 10px 12px;
-  background: rgba(255,255,255,.04);
+  background: rgba(255,255,255,.03);
+}
+
+.details.note{
+  margin-top: 10px;
+  color: var(--gold-soft);
 }
 
 .pill-row{ display:flex; gap:8px; flex-wrap:wrap; margin-bottom: 10px; }
-.media-wrap{ margin-top: 12px; }
 
-
-
-/* === RBR GOLD OVERRIDES === */
-:root{
-  --bg:#0b0b0b;
-  --card:#121212;
-  --text:#f5f5f5;
-  --muted:#c9b27c;
-
-  --border:rgba(201,162,77,.35);
-  --accent:#c9a24d; /* used in gradients */
-}
-
-.logo-img{
-  height: 48px;
-  width: auto;
-  object-fit: contain;
-  display:block;
-}
+a{ color: var(--gold); text-decoration: none; }
+a:hover{ color: var(--gold-soft); text-decoration: underline; }
