@@ -297,3 +297,60 @@ a:hover{ color: var(--gold-soft); text-decoration: underline; }
 @media (prefers-reduced-motion: reduce){
   .card:hover{ transform: none; transition: none; }
 }
+
+
+
+/* === Improved readability for card overlays (text over image) === */
+.thumb{
+  position: relative;
+  overflow: hidden;
+}
+
+.thumb::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  background: linear-gradient(
+    180deg,
+    rgba(0,0,0,.55) 0%,
+    rgba(0,0,0,.15) 35%,
+    rgba(0,0,0,.15) 65%,
+    rgba(0,0,0,.75) 100%
+  );
+}
+
+.thumb > *{
+  position: relative;
+  z-index: 1;
+}
+
+.thumb .name,
+.thumb .code,
+.thumb .pill,
+.thumb .btn,
+.thumb button,
+.thumb a{
+  background: rgba(0,0,0,.55);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(255,255,255,.15);
+}
+
+.thumb .name,
+.thumb .code{
+  padding: 6px 10px;
+  border-radius: 12px;
+}
+
+.thumb .btn,
+.thumb button,
+.thumb a.btn{
+  color:#fff;
+}
+
+.thumb .btn:hover,
+.thumb button:hover,
+.thumb a.btn:hover{
+  background: rgba(0,0,0,.70);
+}
